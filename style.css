@@ -1,0 +1,84 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.INICIO {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #108fca;
+  padding: 20px;
+}
+
+.logotipo {
+  height: 150px;
+  width: 159px;
+}
+
+nav {
+  margin-left: 20px;
+}
+
+a {
+  color: #c4ee0a;
+  font-size: 20px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.texto1 {
+  background: #fa462e;
+  padding: 50px;
+  text-align: center;
+}
+
+.texto1 h1 {
+  font-size: 36px;
+}
+
+.img1 {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.texto_medio {
+  text-align: center;
+  padding: 50px;
+}
+
+.texto_medio h1 {
+  font-size: 36px;
+}
+
+.texto_medio p {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.texto_medio img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.texto2 {
+  background-color: rgb(255, 238, 0);
+  text-align: center;
+  padding: 50px;
+}
+
+.texto2 h1 {
+  font-size: 36px;
+}
+
+.texto2 .p2 {
+  font-size: 24px;
+  margin-top: 20px;
+  color: #b66625;
+}
+
+/* Agrega estilos adicionales según sea necesario */
